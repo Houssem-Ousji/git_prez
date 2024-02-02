@@ -16,6 +16,7 @@ def get_sum_of_prices(json_file):
     return total_price
 
     //This is just a sample change for the purpose of creating a tag
+    //Added a comment to demonstrate a change
 
 json_file_path = "path/to/your/json/file.json"
 total_prices = get_sum_of_prices(json_file_path)
